@@ -11,17 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
+* M.S. in Engineering (Mechanical), University of Washington, Seattle, 2019
+* B.S. in Mechanical Engineering, National Tiwan University, 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Wintter-Fall 2019: Research Assistant
+  * UW BioRobotics Lab
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
+* Summer 2018: Intern
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
