@@ -7,7 +7,7 @@ tags:
   - Bandits
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+This is the note of Mathematics of Machine Learning Summer School - Bandits at University of Washington, which was taught by Kevin Jamieson (University of Washington).
 
 $$
 \frac{n!}{k!(n-k)!} = {n \choose k}
