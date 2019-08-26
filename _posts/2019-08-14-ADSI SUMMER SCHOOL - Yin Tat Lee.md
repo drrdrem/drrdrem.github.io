@@ -1,6 +1,6 @@
 ---
 title: 'ADSI SUMMER SCHOOL - Yin Tat Lee'
-date: 2013-08-14
+date: 2019-08-14
 permalink: /posts/2018/08/ADSI SUMMER SCHOOL - Yin Tat Lee/
 tags:
   - Sampling
