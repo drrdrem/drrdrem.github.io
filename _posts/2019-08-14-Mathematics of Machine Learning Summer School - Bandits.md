@@ -2,6 +2,7 @@
 title: 'Mathematic of Machine Learning Summer School - Bandits'
 date: 2019-08-14
 permalink: /posts/2019/08/Mathematics of Machine Learning Summer School - Bandits/
+toc: true
 tags:
   - Machine Learning
   - Bandits
