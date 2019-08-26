@@ -29,10 +29,7 @@ Work experience
 Skills
 ======
 * Skill 1
-* Programming
-  * Python
-  * C++
-  * Matlab
+* Programming: Python, C++, Matlab
 * Skill 3
 
 Publications
