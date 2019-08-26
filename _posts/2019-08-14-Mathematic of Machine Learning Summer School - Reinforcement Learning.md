@@ -1,6 +1,6 @@
 ---
 title: 'Mathematic of Machine Learning Summer School - Reinforcement Learning'
-date: 2014-08-14
+date: 2019-08-14
 permalink: /posts/2014/08/Mathematic of Machine Learning Summer School - Reinforcement Learning/
 tags:
   - cool posts
