@@ -11,7 +11,10 @@ header-includes:
 This is the note of Mathematics of Machine Learning Summer School - Bandits at University of Washington, which was taught by Kevin Jamieson (University of Washington).
 
 $$
-\textrm{Regret} R_T = \max_i \theta_i^*T - \mathbb{E}\left [ \sum{t=1}^Tr_t \right]
+\frac{n!}{k!(n-k)!} = {n \choose k}
+$$
+$$
+\textrm{Regret} R_T = \max_i \theta_i^sT - \mathbb{E}\left [ \sum{t=1}^Tr_t \right]
 $$
 
 UCB
