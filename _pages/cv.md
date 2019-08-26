@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Engineering (Mechanical), University of Washington, Seattle, 2019
-* B.S. in Mechanical Engineering, National Tiwan University, 2016
+* B.S. in Mechanical Engineering, National Taiwan University, 2016
 
 Work experience
 ======
