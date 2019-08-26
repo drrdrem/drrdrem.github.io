@@ -4,6 +4,7 @@ date: 2019-08-14
 permalink: /posts/2019/08/Mathematics of Machine Learning Summer School - Bandits/
 toc: true
 tags: [Bandits, Machine Learning, MSRI]
+use_math: true
 header-includes:
   - \usepackage{algorithm2e}
 ---
@@ -13,13 +14,13 @@ This is the note of Mathematics of Machine Learning Summer School - Bandits at U
 $$
 \frac{n!}{k!(n-k)!} = {n \choose k}
 $$
-$$
+<!-- $$
 \textrm{Regret} R_T = \max_i \theta_i^sT - \mathbb{E}\left [ \sum{t=1}^Tr_t \right]
-$$
+$$ -->
 
 UCB
 ======
-
+$x\_{1:t-1}$
 
 # Algorithm 1
 Just a sample algorithmn
