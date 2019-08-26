@@ -13,4 +13,4 @@ redirect_from:
 
 News
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+* July 29, 2019 - August 09, 2019 [MSRI Mathematics of Machine Learning Summer School](http://www.msri.org/summer_schools/866)
