@@ -19,20 +19,20 @@ Work experience
 * Wintter-Fall 2019: Research Assistant
   * UW BioRobotics Lab
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Blake Hanaford
 
 * Summer 2018: Research Intern
-  * Github University
+  * Allen Institute for Brain Science
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor 
   
 Skills
 ======
 * Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Programming
+  * Python
+  * C++
+  * Matlab
 * Skill 3
 
 Publications
