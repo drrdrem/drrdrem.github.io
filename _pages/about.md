@@ -10,9 +10,6 @@ redirect_from:
 
 
 
-News
-======
-L
 
 News
 ------
