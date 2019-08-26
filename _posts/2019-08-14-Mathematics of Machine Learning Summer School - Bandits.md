@@ -18,5 +18,5 @@ Linear Bandits
 Contextual Bandits
 ======
 
-Aren't headings cool?
+References
 ------
