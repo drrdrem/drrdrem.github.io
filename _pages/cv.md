@@ -21,7 +21,7 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Summer 2018: Intern
+* Summer 2018: Research Intern
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
