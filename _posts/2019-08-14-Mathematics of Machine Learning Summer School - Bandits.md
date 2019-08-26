@@ -5,12 +5,6 @@ permalink: /posts/2019/08/Mathematics of Machine Learning Summer School - Bandit
 tags:
   - Machine Learning
   - Bandits
-
-<!-- header:
-	<script src="[path]/katex/katex.min.js"></script>
-	 <script src="[path]/pseudocode.js-1.1/pseudocode.js" type="text/javascript"></script>
-	<link rel="stylesheet" href="[path]/katex/katex.min.css">
-	<link rel="stylesheet" href="[path]/pseudocode.js-1.1/pseudocode.css" type="text/css"> -->
 ---
 
 This is the note of Mathematics of Machine Learning Summer School - Bandits at University of Washington, which was taught by Kevin Jamieson (University of Washington).
