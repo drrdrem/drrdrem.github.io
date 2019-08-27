@@ -9,7 +9,7 @@ header-includes:
   - \usepackage{algorithm2e}
 ---
 
-In the past few decades, machine learning was more focusing on how to analyze the past data to use them on future data, while the next decade, Kenvein think it will be more conversation and interaction. Bandits can hence close the loop on inferences and data collection to balance the exploration and exploitation to optimally complete a task. Bandits' problem is named after Casino, which is a way to find a optimal policy to pull down slot machines. The bandits' problems can be generally modeled as following:
+In the past few decades, machine learning was more focusing on how to analyze the past data using them for future data, while the next decade, Kenvin think it will be more conversation and interaction. Bandits can hence close the loop on inferences and data collection to balance the exploration and exploitation to optimally complete a task. Bandits' problem is named after Casino, which is a way to find an optimal policy to pull down slot machines. The bandits' problems can be generally modeled as following:
 
 {% include pseudocode.html id="1" code="
 \begin{algorithm}
@@ -26,15 +26,15 @@ In the past few decades, machine learning was more focusing on how to analyze th
 \end{algorithm}
 " %}
 
-Which means supposed we have different i.i.d. with unknown means, yhe things we can do is simultaneously explore and exploit the situation. 
+Which means supposed we have different i.i.d. with unknown means, the things we can do is simultaneously explore and exploit the situation. 
 
-One of the goal of the bandits' problems is trying to figure out an algorithm to minimize the regret. We can define regreat as follows:
+One of the goals of the bandits' problems is trying to figure out an algorithm to minimize the regret. We can define regret as follows:
 
 $$
 \textrm{Regret: } R_T = \max_i \theta_i^*T - \mathbb{E}\left [ \sum_{t=1}^Tr_t \right],
 $$ 
 
-Which means the difference of the most reward can got in expectation and real rewards in each single time. This means how much worse the player is doing then playing the optimal policy. 
+Which means the difference of the most reward can be gotten in expectation and real rewards in each single time. This means how much worse the player is doing than playing the optimal policy. 
 
 
 
