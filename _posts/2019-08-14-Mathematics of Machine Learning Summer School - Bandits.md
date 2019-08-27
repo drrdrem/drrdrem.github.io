@@ -17,6 +17,7 @@ Just a sample algorithmn
 \begin{algorithm}
 \caption{Bandits}
 \begin{algorithmic}
+\Require ab
 \PROCEDURE{Bandits}{$A, p, r$}
     \IF{$p < r$} 
         \STATE $q = $ \CALL{Partition}{$A, p, r$}
