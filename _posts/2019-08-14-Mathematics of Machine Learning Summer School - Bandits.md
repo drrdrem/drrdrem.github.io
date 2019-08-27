@@ -18,7 +18,7 @@ $$
 UCB
 ======
 $$
-\textrm{Regret} R_T = \max_i \theta_i^sT - \mathbb{E}\left [ \sum{t=1}^Tr_t \right]
+\textrm{Regret } R_T = \max_i \theta_i^*T - \mathbb{E}\left [ \sum{t=1}^Tr_t \right]
 $$ 
 
 # Algorithm 1
