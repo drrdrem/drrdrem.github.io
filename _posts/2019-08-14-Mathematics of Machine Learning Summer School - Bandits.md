@@ -10,6 +10,25 @@ header-includes:
 
 This is the note of Mathematics of Machine Learning Summer School - Bandits at University of Washington, which was taught by Kevin Jamieson (University of Washington).
 
+# Algorithm 1
+Just a sample algorithmn
+
+{% include pseudocode.html id="1" code="
+\begin{algorithm}
+\caption{Bandits}
+\begin{algorithmic}
+\hspace*{\algorithmicindent} \textbf{Input} \\
+\PROCEDURE{Bandits}{$A, p, r$}
+    \IF{$p < r$} 
+        \STATE $q = $ \CALL{Partition}{$A, p, r$}
+        \STATE \CALL{Quicksort}{$A, p, q - 1$}
+        \STATE \CALL{Quicksort}{$A, q + 1, r$}
+    \ENDIF
+\ENDPROCEDURE
+\end{algorithmic}
+\end{algorithm}
+" %}
+
 $$
 \textrm{Regret: } R_T = \max_i \theta_i^*T - \mathbb{E}\left [ \sum_{t=1}^Tr_t \right]
 $$ 
