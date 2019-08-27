@@ -17,7 +17,6 @@ Just a sample algorithmn
 \begin{algorithm}
 \caption{Bandits}
 \begin{algorithmic}
-\hspace*{\algorithmicindent} \textbf{Input} \\
 \PROCEDURE{Bandits}{$A, p, r$}
     \IF{$p < r$} 
         \STATE $q = $ \CALL{Partition}{$A, p, r$}
