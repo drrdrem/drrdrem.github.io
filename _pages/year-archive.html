@@ -6,7 +6,9 @@ author_profile: true
 redirect_from:
   - /wordpress/blog-posts/
 ---
-
+{% if page.use_math %}
+  {% include mathjax_support %}
+{% endif %}
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}

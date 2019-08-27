@@ -4,6 +4,7 @@ date: 2019-08-14
 permalink: /posts/2019/08/Mathematics of Machine Learning Summer School - Bandits/
 toc: true
 tags: [Bandits, Machine Learning, MSRI]
+use_math: true
 header-includes:
   - \usepackage{algorithm2e}
 ---
