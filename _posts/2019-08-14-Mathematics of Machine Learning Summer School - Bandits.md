@@ -40,7 +40,7 @@ UCB
 # Algorithm 1
 Just a sample algorithmn
 
-{% include pseudocode.html id="1" code="
+{% include pseudocode.html id="2" code="
 \begin{algorithm}
 \caption{Quicksort}
 \begin{algorithmic}
