@@ -11,14 +11,14 @@ header-includes:
 
 Bandits' problems are named after Casino.
 
-Just a sample algorithmn
+The bandits' problems can be formatted as following:
 
 {% include pseudocode.html id="1" code="
 \begin{algorithm}
-\caption{Bandits}
+\caption{General Bandits' Problems}
 \begin{algorithmic}
 \Require $n$ arms
-\PROCEDURE{Bandits}{$n$}
+\PROCEDURE{GeneralBandits}{$n$}
     \FOR{$t =1, ..., T$} 
         \STATE Algorithms pull arm $I_t \in [n] := \{1, 2, ..., n\}$
         \STATE Nature reveals $r_t \sim \mathbb{P}_{I_t}$, $\mathbb{E} \left [ r_t | I_t \right ] = \theta_{I_t}^*$
@@ -28,9 +28,13 @@ Just a sample algorithmn
 \end{algorithm}
 " %}
 
+We can define regreat as follows:
+
 $$
 \textrm{Regret: } R_T = \max_i \theta_i^*T - \mathbb{E}\left [ \sum_{t=1}^Tr_t \right]
 $$ 
+
+The goal of the bandits' problems is trying to figure out an algorithm to minimize the regret.
 
 
 # UCB
