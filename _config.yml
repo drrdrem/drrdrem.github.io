@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-# plugins:
-#   - jekyll-remote-theme
-# remote_theme           : "mmistakes/minimal-mistakes"
-# minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+plugins:
+  - jekyll-remote-theme
+remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 locale                   : "en-US"
@@ -17,7 +17,7 @@ title                    : "Sean Yin"
 title_separator          : "-"
 name                     : &name "Sean Yin"
 description              : &description "personal description"
-url                      : "https://vg.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://drrdrem.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "drrdrem.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
