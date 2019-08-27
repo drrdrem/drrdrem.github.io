@@ -11,7 +11,6 @@ header-includes:
 
 Bandits' problems are named after Casino.
 
-# Algorithm 1
 Just a sample algorithmn
 
 {% include pseudocode.html id="1" code="
@@ -34,11 +33,15 @@ $$
 $$ 
 
 
-UCB
-======
+# UCB
+Considering the following problems:
+
+$$
+\textrm{Regret: } R_T = \max_i \theta_i^*T - \mathbb{E}\left [ \sum_{t=1}^Tr_t \right]
+$$ 
 
 
-# Algorithm 1
+## Algorithm 1
 Just a sample algorithmn
 
 {% include pseudocode.html id="2" code="
@@ -69,11 +72,15 @@ Just a sample algorithmn
 " %}
 
 
-Linear Bandits
-======
+# Linear Bandits
+Considering the following problems:
 
-Contextual Bandits
-======
+$$
+\textrm{Regret: } R_T = \max_i \theta_i^*T - \mathbb{E}\left [ \sum_{t=1}^Tr_t \right]
+$$ 
+
+
+# Contextual Bandits
 
 References
 ------
