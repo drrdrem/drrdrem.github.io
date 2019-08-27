@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+[Download PDF here](http://academicpages.github.io/files/paper3.pdf)
 {% include base_path %}
 
 Education
