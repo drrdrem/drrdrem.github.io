@@ -17,13 +17,12 @@ Just a sample algorithmn
 \begin{algorithm}
 \caption{Bandits}
 \begin{algorithmic}
-\Require ab
-\PROCEDURE{Bandits}{$A, p, r$}
-    \IF{$p < r$} 
-        \STATE $q = $ \CALL{Partition}{$A, p, r$}
-        \STATE \CALL{Quicksort}{$A, p, q - 1$}
-        \STATE \CALL{Quicksort}{$A, q + 1, r$}
-    \ENDIF
+\Require $n$ arms
+\PROCEDURE{Bandits}{$n$}
+    \FOR{$t =1, ..., T$} 
+        \STATE Algorithms pull arm $I_t \in [n] := \{1, 2, ..., n\}$
+        \STATE Nature reveals $r_t \sim \mathbb{P}_{I_t}$, $\mathbb{E} \left [ r_t | I_t \right ] = \theta_{I_t}^*$
+    \ENDFOR
 \ENDPROCEDURE
 \end{algorithmic}
 \end{algorithm}
