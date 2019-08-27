@@ -24,13 +24,13 @@ Work experience
 * Summer 2018: Research Intern
   * Allen Institute for Brain Science
   * Duties included: Merging pull requests
-  * Supervisor: Professor 
+  * Supervisor: Scientist Anatoly Buchin, Ph.D. 
   
 Skills
 ======
-* Skill 1
+* Machine Learning: Reinforcement Learning/ Markove Decision Processes/ Graphical Models
+* Data Science: Statistics/ Multinomial Analysis/ General Linear Models
 * Programming: Python/ C++/ Matlab
-* Skill 3
 
 Publications
 ======
@@ -38,6 +38,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Volunteer
 ======
 * Currently signed in to 43 different slack teams
