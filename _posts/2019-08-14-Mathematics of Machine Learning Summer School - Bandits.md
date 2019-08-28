@@ -45,11 +45,31 @@ $$
 \textrm{Regret: } R_T = \max_i \theta_i^*T - \mathbb{E}\left [ \sum_{t=1}^Tr_t \right]
 $$ 
 
+{% include pseudocode.html id="2" code="
+\begin{algorithm}
+\caption{Upper Confidence Bound}
+\begin{algorithmic}
+\Require $N$ arms of slot machines
+\PROCEDURE{UCB}{$N$}
+    \STATE Initilize: Count $C_n^0 \leftarrow 0$; Estimate maen $\bar{\theta_n^0} \leftarrow 0$
+    \FOR{$t =1, ..., T$} 
+        \IF{$t<N$}
+        \STATE Play arm t
+        \STATE $C_n^t \leftarrow \mathbb{n = t}$
+        \STATE Observe $z_t$
+        \STATE $\bar{\theta_n^0} \leftarrow z_t\mathbb{n = t}$
+        \ELSE
+        \STATE
+        \ENDIF
+    \ENDFOR
+\ENDPROCEDURE
+\end{algorithmic}
+\end{algorithm}
+" %}
 
 ## Algorithm 1
-Just a sample algorithmn
 
-{% include pseudocode.html id="2" code="
+<!-- {% include pseudocode.html id="2" code="
 \begin{algorithm}
 \caption{Quicksort}
 \begin{algorithmic}
@@ -74,7 +94,7 @@ Just a sample algorithmn
 \ENDPROCEDURE
 \end{algorithmic}
 \end{algorithm}
-" %}
+" %} -->
 
 
 # Linear Bandits
