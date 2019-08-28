@@ -17,3 +17,4 @@ News
 * August 13 - 17, 2019: [ADSI SUMMER SCHOOL ON FOUNDATIONS OF DATA SCIENCE](https://alecgt.github.io/adsi_summer/)
 * July 29, 2019 - August 09, 2019: [MSRI Mathematics of Machine Learning Summer School](http://www.msri.org/summer_schools/866)
 * June 17 - 21, 2019: [Applied Mathematics: The Next 50 Years](https://depts.washington.edu/amath/amath50/)
+* July 13 - 18, 2018: [27th Annual Computational Neuroscience Meeting](https://www.cnsorg.org/cns-2018)
