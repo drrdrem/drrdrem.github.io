@@ -47,19 +47,22 @@ $$
 
 {% include pseudocode.html id="2" code="
 \begin{algorithm}
-\caption{Upper Confidence Bound}
+\caption{Upper Confidence Bound (UCB)}
 \begin{algorithmic}
 \Require $N$ arms of slot machines
 \PROCEDURE{UCB}{$N$}
-    \STATE Initilize: Count $C_n^0 \leftarrow 0$; Estimate maen $\bar{\theta}_n^0 \leftarrow 0$
+    \STATE Initilize: Count $C_n^0 \leftarrow 0$; Estimate maen $\hat{\theta}_n^0 \leftarrow 0$
     \FOR{$t =1, ..., T$} 
         \IF{$t<N$}
         \STATE Play arm t
         \STATE $C_n^t \leftarrow \mathbb{I} \left [n = t \right ]$
         \STATE Observe $z_t$
-        \STATE $\bar{\theta}_n^t \leftarrow z_t\mathbb{I} \left [ n = t \right ]$
+        \STATE $\hat{\theta}_n^t \leftarrow z_t\mathbb{I} \left [ n = t \right ]$
         \ELSE
-        \STATE
+        \STATE Play arm $I_t = \argmax_{n \in \left [ N \right]} \left ( \hat{\theta}_n^{t-1} + U_n^{t-1} \right )$
+        \STATE $C_n^t \leftarrow C_n^{t-1} + \mathbb{I} \left [ n = I_t \right]$
+        \STATE Observe $z_t$
+        \STATE $\hat{\theta}_n^t \leftarrow \mathbb{I} \left [n = I_t \right] \times \frac{z_t + C_n^{t-1} \times hat{\theta}_n^{t-1}}{C_n^t} + \left ( 1 - \mathbb{I} \left [n = I_t \right ] \right)  \times \hat{\theta}_n^{t-1}$
         \ENDIF
     \ENDFOR
 \ENDPROCEDURE
