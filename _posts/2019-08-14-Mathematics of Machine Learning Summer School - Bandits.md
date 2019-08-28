@@ -51,13 +51,13 @@ $$
 \begin{algorithmic}
 \Require $N$ arms of slot machines
 \PROCEDURE{UCB}{$N$}
-    \STATE Initilize: Count $C_n^0 \leftarrow 0$; Estimate maen $\bar{\theta_n^0} \leftarrow 0$
+    \STATE Initilize: Count $C_n^0 \leftarrow 0$; Estimate maen $\bar{\theta}_n^0 \leftarrow 0$
     \FOR{$t =1, ..., T$} 
         \IF{$t<N$}
         \STATE Play arm t
         \STATE $C_n^t \leftarrow \mathbb{I} \left [n = t \right ]$
         \STATE Observe $z_t$
-        \STATE $\bar{\theta_n^0} \leftarrow z_t\mathbb{I} \left [ n = t \right ]$
+        \STATE $\bar{\theta}_n^t \leftarrow z_t\mathbb{I} \left [ n = t \right ]$
         \ELSE
         \STATE
         \ENDIF
