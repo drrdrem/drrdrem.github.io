@@ -34,7 +34,7 @@ $$
 \textrm{Regret: } R_T = \max_i \theta_i^*T - \mathbb{E}\left [ \sum_{t=1}^Tr_t \right],
 $$ 
 
-Which means the difference of the most reward can be gotten in expectation and real rewards in each single time. This means how much worse the player is doing than playing the optimal policy. 
+which means the difference of the most reward can be gotten in expectation and real rewards in each single time. This means how much worse the player is doing than playing the optimal policy. 
 
 
 
@@ -51,7 +51,7 @@ $$
 \begin{algorithmic}
 \Require $N$ arms of slot machines
 \PROCEDURE{UCB}{$N$}
-    \STATE Initilize: Count $C_n^0 \leftarrow 0$; Estimate maen $\hat{\theta}_n^0 \leftarrow 0$
+    \STATE \textbf{Initialize:} Count $C_n^0 \leftarrow 0$; Estimate maen $\hat{\theta}_n^0 \leftarrow 0$
     \FOR{$t =1, ..., T$} 
         \IF{$t<N$}
         \STATE Play arm t
