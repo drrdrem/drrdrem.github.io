@@ -101,12 +101,20 @@ $$
 
 
 # Linear Bandits
-Considering the following problems:
-
-$$
-\textrm{Regret: } R_T = \max_i \theta_i^*T - \mathbb{E}\left [ \sum_{t=1}^Tr_t \right]
-$$ 
-
+{% include pseudocode.html id="3" code="
+\begin{algorithm}
+\caption{Linear Bandits}
+\begin{algorithmic}
+\Require $\mathcal{X}$ 
+\PROCEDURE{LinearBandits}{$N$}
+    \FOR{$t =1, ..., T$} 
+        \STATE Algorithms pick $x_t \in \mathcal{X}$
+        \STATE Nature reveals $y_t = \langle x, \theta^* \rangle + \xi_t$
+    \ENDFOR
+\ENDPROCEDURE
+\end{algorithmic}
+\end{algorithm}
+" %}
 
 # Contextual Bandits
 
