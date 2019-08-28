@@ -53,7 +53,7 @@ $$
 \PROCEDURE{UCB}{$N$}
     \STATE \textbf{Initialize:} Count $C_n^0 \leftarrow 0$; Estimate maen $\hat{\theta}_n^0 \leftarrow 0$
     \FOR{$t =1, ..., T$} 
-        \IF{$t<N$}
+        \IF{$t \leq N$}
         \STATE Play arm t
         \STATE $C_n^t \leftarrow \mathbb{I} \left [n = t \right ]$
         \STATE Observe $r_t$
