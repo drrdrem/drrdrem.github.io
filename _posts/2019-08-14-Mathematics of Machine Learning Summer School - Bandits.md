@@ -118,7 +118,7 @@ $$
 
 # Contextual Bandits
 
-<div class="definition">
+<div class="definition" text='test'>
 
 A set $C$ is *convex* if for all
 
@@ -130,7 +130,7 @@ $\alpha x + (1-\alpha) y \in C$.
 
 </div>
 
-<div class="theorem">
+<div class="theorem" text='test2'>
 
 There are no natural numbers
 

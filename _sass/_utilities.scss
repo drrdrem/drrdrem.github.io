@@ -492,6 +492,10 @@ a.reversefootnote {
 
 }
 
+.theorem[text]:before {
+  content: "Theorem (" attr(text) "). ";
+  }
+
 .lemma {
 
   display: block;
@@ -557,3 +561,7 @@ a.reversefootnote {
   font-style: normal;
 
 }
+
+.definition[text]:before {
+  content: "Definition (" attr(text) "). ";
+  }
