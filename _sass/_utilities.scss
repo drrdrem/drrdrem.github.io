@@ -486,7 +486,7 @@ a.reversefootnote {
 
 .theorem:before {
 
-  content: "Theorem.";
+  content: "Theorem "counter(theorem)".";
 
   font-weight: bold;
 
@@ -495,7 +495,7 @@ a.reversefootnote {
 }
 
 .theorem[text]:before {
-  content: "Theorem (" attr(text) "). ";
+  content: "Theorem "counter(theorem)" (" attr(text) "). ";
   }
 
 .lemma {
