@@ -469,7 +469,7 @@ a.reversefootnote {
   font-weight: bold;
 }
 /*
-   Theorem
+   Theorem Style
    ========================================================================== */
 
 .theorem {
@@ -477,6 +477,8 @@ a.reversefootnote {
   display: block;
 
   margin: 12px 0;
+
+  counter-increment: theorem;
 
   font-style: italic;
 
