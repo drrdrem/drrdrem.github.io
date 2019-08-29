@@ -473,25 +473,16 @@ a.reversefootnote {
    ========================================================================== */
 
 .theorem {
-
   display: block;
-
   margin: 12px 0;
-
   counter-increment: theorem;
-
   font-style: italic;
-
 }
 
 .theorem:before {
-
   content: "Theorem "counter(theorem)".";
-
   font-weight: bold;
-
   font-style: normal;
-
 }
 
 .theorem[text]:before {
@@ -499,75 +490,51 @@ a.reversefootnote {
   }
 
 .lemma {
-
   display: block;
-
   margin: 12px 0;
-
+  counter-increment: lemma;
   font-style: italic;
-
 }
 
 .lemma:before {
-
-  content: "Lemma.";
-
+  content: "Lemma "counter(lemma)".";
   font-weight: bold;
-
   font-style: normal;
-
 }
 
 .lemma[text]:before {
-  content: "Lemma (" attr(text) "). ";
+  content: "Lemma "counter(lemma)" (" attr(text) "). ";
   }
 
 .proof {
-
   display: block;
-
   margin: 12px 0;
-
   font-style: normal;
-
 }
 
 .proof:before {
-
   content: "Proof.";
-
   font-style: italic;
-
 }
 
 .proof:after {
-
   content: "\25FC";
-
   float:right;
-
 }
 
 .definition {
-
   display: block;
-
   margin: 12px 0;
-
+  counter-increment: definition;
   font-style: normal;
-
 }
 
 .definition:before {
-
-  content: "Definition.";
-
+  content: "Definition "counter(definition)".";
   font-weight: bold;
-
   font-style: normal;
-
 }
 
 .definition[text]:before {
-  content: "Definition (" attr(text) "). ";
+  content: "Definition "counter(definition)" (" attr(text) "). ";
   }
