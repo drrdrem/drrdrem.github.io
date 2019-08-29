@@ -538,3 +538,16 @@ a.reversefootnote {
 .definition[text]:before {
   content: "Definition "counter(definition)" (" attr(text) "). ";
   }
+
+.fact {
+  display: block;
+  margin: 12px 0;
+  counter-increment: fact;
+  font-style: italic;
+}
+
+.fact:before {
+  content: "Fact "counter(fact)".";
+  font-weight: bold;
+  font-style: normal;
+}
