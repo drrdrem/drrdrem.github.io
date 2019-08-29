@@ -130,6 +130,12 @@ $\alpha x + (1-\alpha) y \in C$.
 
 </div>
 
+<div class="definition">
+
+This is a test.
+
+</div>
+
 <div class="theorem" text='test2'>
 
 There are no natural numbers

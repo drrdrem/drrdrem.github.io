@@ -516,6 +516,10 @@ a.reversefootnote {
 
 }
 
+.lemma[text]:before {
+  content: "Lemma (" attr(text) "). ";
+  }
+
 .proof {
 
   display: block;
