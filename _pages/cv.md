@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Download PDF here](http://academicpages.github.io/files/paper3.pdf)
+[Download PDF here](http://academicpages.github.io/files/Resume_Ver0..pdf)
 {% include base_path %}
 
 Education
@@ -14,12 +14,12 @@ Education
 * M.S. in Mechanical Engineering, University of Washington, Seattle, 2019
 * B.S. in Mechanical Engineering, National Taiwan University, 2016
 
-Research experience
+Research Experiences
 ======
 
 * Fall 2020 - Present: Big Data Engineer
   * Taiwan Semiconductor Manufacturing Company (TSMC)
-  * Duties included: Tagging issues
+  * Anomaly Detection with Cross-factory Historical Fabrication Information
   * Supervisor: 
 
 * Winter 2019 - Fall 2020: Research Assistant
@@ -39,8 +39,8 @@ Research experience
   
 Skills
 ======
-* Machine Learning: Reinforcement Learning/ Markove Decision Processes/ Graphical Models
-* Data Science: Statistics/ Multinomial Analysis/ General Linear Models
+* Robotics: Reinforcement Learning/ Markove Decision Processes/ Graphical Models
+* Machine Learning: Statistics/ Multinomial Analysis/ General Linear Models
 * Programming: Python/ C++/ Matlab
 
 Publications
