@@ -34,7 +34,7 @@ Research experience
 
 * Summer 2020: Research Intern
   * Dr. Sheng Wang Lab
-  * Reinforcement Learning Agents for References Selection to construct a novel concept.
+  * Reinforcement Learning Agents for References Selection to Construct a Novel Concept.
   * Supervisor: Assistant Professor Sheng Wang, Ph.D. 
   
 Skills
