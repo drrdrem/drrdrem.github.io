@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
+Shao-An Yin is a master's at UW interested in algorithms and robotics. 2018 summer, he finished his internship at Allen Institute for Brain Science. In the institute, he participated in multiple projects, including the development of precise single neuron and network models with genetic optimization algorithms. He also analyzed the neural data with various machine learning and statistical techniques. After the internship, Shao-An joined the UW BioRobotics Lab. He is currently working on Behavior Trees embedded Hidden Markov Models based on medical records with Dr. Blake Hannaford.
 
 
 News

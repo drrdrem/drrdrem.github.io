@@ -70,8 +70,6 @@ $$
 \end{algorithm}
 " %}
 
-## Algorithm 1
-
 <!-- {% include pseudocode.html id="2" code="
 \begin{algorithm}
 \caption{Quicksort}

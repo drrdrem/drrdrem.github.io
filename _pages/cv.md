@@ -16,15 +16,26 @@ Education
 
 Work experience
 ======
-* Wintter-Fall 2019: Research Assistant
-  * UW BioRobotics Lab
+
+* Fall 2020 - Present: Big Data Engineer
+  * Taiwan Semiconductor Manufacturing Company (TSMC)
   * Duties included: Tagging issues
-  * Supervisor: Professor Blake Hanaford
+  * Supervisor: 
+
+* Winter-Fall 2020: Research Assistant
+  * UW BioRobotics Lab
+  * The Clinical Healthcare Pathway Models' Development with Graphical Models.
+  * Supervisor: Professor Blake Hanaford, Ph.D.
 
 * Summer 2018: Research Intern
   * Allen Institute for Brain Science
-  * Duties included: Merging pull requests
+  * The Simulation and Development of Humman's Brain Dynamics.
   * Supervisor: Scientist Anatoly Buchin, Ph.D. 
+
+* Summer 2020: Research Intern
+  * Dr. Sheng Wang Lab
+  * Reinforcement Learning Agents for References Selection to construct a novel concept.
+  * Supervisor: Assistant Professor Sheng Wang, Ph.D. 
   
 Skills
 ======
@@ -40,4 +51,4 @@ Publications
   
 Volunteer
 ======
-* Currently signed in to 43 different slack teams
+* Kuterevo, Croatia, Service Civil International (SCI), Summer 2014.
