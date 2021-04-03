@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 
 locale                   : "en-US"
-title                    : "Sean Yin"
+title                    : "Shao-An (Sean) Yin"
 title_separator          : "-"
 name                     : &name "Shao-An (Sean) Yin"
 description              : &description "personal description"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Sean Yin"
   avatar           : "profile_n.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. Candidate"
   location         : "Seattle, WA"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -113,7 +113,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Sean1293"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
