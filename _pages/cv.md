@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* M.S. in Engineering (Mechanical), University of Washington, Seattle, 2019
+* M.S. in Mechanical Engineering, University of Washington, Seattle, 2019
 * B.S. in Mechanical Engineering, National Taiwan University, 2016
 
-Work experience
+Research experience
 ======
 
 * Fall 2020 - Present: Big Data Engineer
@@ -22,7 +22,7 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: 
 
-* Winter-Fall 2020: Research Assistant
+* Winter 2019 - Fall 2020: Research Assistant
   * UW BioRobotics Lab
   * The Clinical Healthcare Pathway Models' Development with Graphical Models.
   * Supervisor: Professor Blake Hanaford, Ph.D.
