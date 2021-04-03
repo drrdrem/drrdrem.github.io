@@ -30,9 +30,9 @@ Which means supposed we have different i.i.d. with unknown means, the things we 
 
 One of the goals of the bandits' problems is trying to figure out an algorithm to minimize the regret. We can define regret as follows:
 
-$$
+$
 \textrm{Regret: } R_T = \max_i \theta_i^*T - \mathbb{E}\left [ \sum_{t=1}^Tr_t \right],
-$$ 
+$
 
 which means the difference of the most reward can be gotten in expectation and real rewards in each single time. This means how much worse the player is doing than playing the optimal policy. 
 
@@ -41,9 +41,9 @@ which means the difference of the most reward can be gotten in expectation and r
 # UCB
 Considering the following problems:
 
-$$
+$
 \textrm{Regret: } R_T = \max_i \theta_i^*T - \mathbb{E}\left [ \sum_{t=1}^Tr_t \right]
-$$ 
+$
 
 {% include pseudocode.html id="2" code="
 \begin{algorithm}
