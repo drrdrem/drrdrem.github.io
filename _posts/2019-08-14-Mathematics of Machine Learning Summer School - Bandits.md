@@ -9,7 +9,7 @@ header-includes:
   - \usepackage{algorithm2e}
 ---
 
-In the past few decades, machine learning was more focusing on how to analyze the past data using them for future data, while the next decade, Kenvin think it will be more conversation and interaction. Bandits can hence close the loop on inferences and data collection to balance the exploration and exploitation to optimally complete a task. Bandits' problem is named after Casino, which is a way to find an optimal policy to pull down slot machines. The bandits' problems can be generally modeled as following:
+In the past few decades, machine learning was more focusing on how to analyze the past data using them for future data, while the next decade, Kevin think it will be more conversation and interaction. Bandits can hence close the loop on inferences and data collection to balance the exploration and exploitation to optimally complete a task. Bandits' problem is named after Casino, which is a way to find an optimal policy to pull down slot machines. The bandits' problems can be generally modeled as following:
 
 {% include pseudocode.html id="1" code="
 \begin{algorithm}
