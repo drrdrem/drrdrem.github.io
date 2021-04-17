@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* M.S. in Mechanical Engineering, University of Washington, Seattle, 2019
-* B.S. in Mechanical Engineering, National Taiwan University, 2016
+* Incoming Ph.D. in Electrical and Computer Engineering, University of Minnesota, Twin City, 2021
+* M.S. in Mechanical Engineering, University of Washington, Seattle, 2017-2019
+* B.S. in Mechanical Engineering, National Taiwan University, 2012-2016
 
 Research Experiences
 ======
@@ -20,7 +21,7 @@ Research Experiences
 * Fall 2020 - Present: Big Data Engineer
   * Taiwan Semiconductor Manufacturing Company (TSMC)
   * Anomaly Detection with Cross-factory Historical Fabrication Information
-  * Supervisor: 
+  * Supervisor: Yi-Chun Chen, Ph.D.
 
 * Winter 2019 - Fall 2020: Research Assistant
   * UW BioRobotics Lab
