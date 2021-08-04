@@ -18,9 +18,9 @@ Education
 Research Experiences
 ======
 
-* Fall 2020 - Present: Big Data Engineer
+* Fall 2020 - Summer 2021: Engineer
   * Taiwan Semiconductor Manufacturing Company (TSMC)
-  * Anomaly Detection with Cross-factory Historical Fabrication Information
+  * Image-based Anomaly Detection with Cross-factory Historical Fabrication Information
   * Supervisor: Yi-Chun Chen, Ph.D.
 
 * Winter 2019 - Fall 2020: Research Assistant
