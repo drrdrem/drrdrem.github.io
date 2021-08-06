@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Download PDF here](http://drrdrem.github.io/files/Resume_Ver0.pdf)
+[Download PDF here](http://drrdrem.github.io/files/Resume_Ver1.pdf)
 {% include base_path %}
 
 Education
