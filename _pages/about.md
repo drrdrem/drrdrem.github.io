@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-As an incoming Ph.D. student at UMN focusing on algorithms and robotics, I aim to build computationally efficient models and algorithms to help people and robots make optimal decisions in real-time with physical interpretations, bridging the gap between pure statistical models and physics. I, therefore, endeavor to become a research scientist specializing in combining numerical algorithms and optimization.
+As a Ph.D. student at UMN focusing on distributed algorithms and robotics, I aim to build computationally efficient models and algorithms to help people and robots make optimal decisions in real-time with physical interpretations, bridging the gap between pure statistical models and physics. I, therefore, endeavor to become a research scientist specializing in combining numerical algorithms and optimization.
 
-During the 2018 summer, I finished my internship at Allen Institute for Brain Science. In the institute, I participated in multiple projects, including the development of precise single neuron and network models with genetic optimization algorithms. I also analyzed the neural data with various machine learning and statistical techniques. After the internship, I joined the UW BioRobotics Lab, working on Behavior Trees embedded Graphical Models based on medical records with Dr. Blake Hannaford. I am currently working on Image-based Anomaly Decection in TSMC.
+During the 2018 summer, I finished my internship at Allen Institute for Brain Science. In the institute, I participated in multiple projects, including the development of precise single neuron and network models with genetic optimization algorithms. I also analyzed the neural data with various machine learning and statistical techniques. After the internship, I joined the UW BioRobotics Lab, working on Behavior Trees embedded Graphical Models based on medical records with Dr. Blake Hannaford. I then  worked on Image-based Anomaly Decection in TSMC.
 
 
 News

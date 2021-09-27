@@ -6,19 +6,24 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Download PDF here](http://drrdrem.github.io/files/Resume_Ver1.pdf)
+[Download PDF here](http://drrdrem.github.io/files/Resume_Sep2021.pdf)
 {% include base_path %}
 
 Education
 ======
-* Incoming Ph.D. in Electrical and Computer Engineering, University of Minnesota, Twin City, 2021
+* Ph.D. Student in Electrical and Computer Engineering, University of Minnesota, Twin City, 2021
 * M.S. in Mechanical Engineering, University of Washington, Seattle, 2017-2019
 * B.S. in Mechanical Engineering, National Taiwan University, 2012-2016
 
 Research Experiences
 ======
 
-* Fall 2020 - Summer 2021: Engineer
+* Fall 2021 - Present: Research Assistant
+  * Dr. Nicola Elia's Group
+  * Distributed Optimization Algorithms and Robotics
+  * Supervisor: Professor Nicola Elia, Ph.D.
+
+* Fall 2020 - Summer 2021: Machine Learning Engineer
   * Taiwan Semiconductor Manufacturing Company (TSMC)
   * Image-based Anomaly Detection with Cross-factory Historical Fabrication Information
   * Supervisor: Yi-Chun Chen, Ph.D.
