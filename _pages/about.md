@@ -12,7 +12,7 @@ As a Ph.D. student at UMN under Dr. Nicola Elia's supervision focusing on distri
 During the 2018 summer, I interned at Allen Institute for Brain Science with Dr. Anatoly Buchin. In the institute, I participated in the development of precise single neuron and network models with genetic optimization algorithms. After the internship, I joined the UW BioRobotics Lab, working on Behavior Trees embedded Graphical Models based on medical records with Dr. Blake Hannaford. After earning my Masters's degree, I then worked on Image-based Unsupervised Anomaly Detection and Image Retrieval at TSMC BDSA with Dr. Yi-Chun Chen. 
 
 
-Current Project 
+Current Projects 
 ------ 
 * Multi-Agent Robotics Planning and Control 
 
