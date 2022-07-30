@@ -9,7 +9,7 @@ redirect_from:
 ---
 As a Ph.D. student at UMN under Dr. Nicola Elia's supervision focusing on distributed algorithms and multi-agent robotics, I aim to build computationally efficient models and algorithms to help people and robots make optimal decisions in real-time with physical interpretations, bridging the gap between pure statistical models and physics. I, therefore, endeavor to become a research scientist specializing in combining numerical algorithms and optimization. 
 
-During the 2018 summer, I interned at Allen Institute for Brain Science with Dr. Anatoly Buchin. In the institute, I participated in the development of precise single neuron and network models with genetic optimization algorithms. After the internship, I joined the UW BioRobotics Lab, working on Behavior Trees embedded Graphical Models based on medical records with Dr. Blake Hannaford. After earning my Masters's degree, I then worked on Image-based Unsupervised Anomaly Detection and Image Retrieval at TSMC BDSA with Dr. Yi-Chun Chen. 
+During the 2018 summer, I interned at Allen Institute for Brain Science with Dr. Anatoly Buchin, participating in the development of precise single neuron and network models with genetic optimization algorithms. After the internship, I joined the UW BioRobotics Lab, working on Behavior Trees embedded Graphical Models based on medical records with Dr. Blake Hannaford. After earning my Masters's degree, I then worked on Image-based Unsupervised Anomaly Detection and Image Retrieval at TSMC BDSA with Dr. Yi-Chun Chen. I joined Amazon as an Applied Scientist Intern during 2022 summer, working on Reinforcement Learning Based Active Learning with Dr. Jiacong Li and Dr. Cecile Levasseur.
 
 
 Current Projects 

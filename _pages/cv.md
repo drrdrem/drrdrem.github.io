@@ -23,9 +23,14 @@ Research Experiences
   * Distributed Optimization Algorithms and Robotics
   * Supervisor: Professor Nicola Elia, Ph.D.
 
+* Summer 2022 : Applied Scientist Intern
+  * Amazon
+  * Reinforcement Learning Based Active Learning.
+  * Supervisor: Jiacong Li, Ph.D., Cecile Levasseur, Ph.D.
+
 * Fall 2020 - Summer 2021: Machine Learning Engineer
   * Taiwan Semiconductor Manufacturing Company (TSMC)
-  * Image-based Anomaly Detection with Cross-factory Historical Fabrication Information
+  * Image-based Anomaly Detection with Cross-factory Historical Fabrication Information.
   * Supervisor: Yi-Chun Chen, Ph.D.
 
 * Winter 2019 - Fall 2020: Research Assistant
